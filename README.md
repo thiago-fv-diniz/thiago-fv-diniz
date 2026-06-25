@@ -24,11 +24,15 @@ the kind of cinematic, high-craft interfaces that make a browser feel alive.
 B.Sc. in Computer Science — UEPB.
 
 ### Stack
-
+ 
 **Backend** &nbsp; Java · Spring Boot · Hibernate / JPA · PostgreSQL · Redis
+ 
 **Frontend** &nbsp; TypeScript · React · Next.js · Nuxt · Tailwind
+ 
 **Creative** &nbsp; Three.js / WebGL · Canvas 2D · GSAP · Lenis
+ 
 **Infra** &nbsp; AWS · Docker · CircleCI · Cloudflare
+ 
 <!--
 ### Featured
 
