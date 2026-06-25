@@ -20,10 +20,10 @@ Sou desenvolvedor fullstack da **Paraíba, Brasil**, atuando profissionalmente d
 No dia a dia, construo e escalo plataformas web com **Java / Spring Boot** e **React / Next.js**.
 Fora do expediente, me puxo pro lado expressivo da web — **WebGL, Canvas e animação** — aquele tipo de interface cinematográfica e bem-feita que faz o navegador parecer vivo.
 
-🎬 **A melhor forma de me conhecer é [explorar meu portfólio →](PORTFOLIO_URL)** — um site single-file construído em torno de um scroll com o ciclo de vida de uma requisição full-stack, um preloader de boot de terminal e um sistema de easter eggs em ASCII.
+🎬 **A melhor forma de me conhecer é [explorar meu portfólio →](https://thiago-fv-diniz.github.io/dev/)** — um site single-file construído em torno de um scroll com o ciclo de vida de uma requisição full-stack, um preloader de boot de terminal e um sistema de easter eggs em ASCII.
 
 <div align="center">
-  <a href="PORTFOLIO_URL"><img src="https://raw.githubusercontent.com/thiago-fv-diniz/thiago-fv-diniz/main/assets/portfolio.gif" alt="Prévia do portfólio" width="640"></a>
+  <a href="https://thiago-fv-diniz.github.io/dev/"><img src="https://raw.githubusercontent.com/thiago-fv-diniz/thiago-fv-diniz/main/assets/portfolio.gif" alt="Prévia do portfólio" width="640"></a>
 </div>
 
 ### Stack
@@ -38,7 +38,7 @@ Fora do expediente, me puxo pro lado expressivo da web — **WebGL, Canvas e ani
 
 ### Contato
 
-<a href="https://www.linkedin.com/in/thiago-diniz-dev"><kbd> LinkedIn </kbd></a> &nbsp; <a href="mailto:thiagof.vdiniz@gmail.com"><kbd> Email </kbd></a> &nbsp; <a href="PORTFOLIO_URL"><kbd> Portfólio </kbd></a>
+<a href="https://www.linkedin.com/in/thiago-diniz-dev"><kbd> LinkedIn </kbd></a> &nbsp; <a href="mailto:thiagof.vdiniz@gmail.com"><kbd> Email </kbd></a> &nbsp; <a href="https://thiago-fv-diniz.github.io/dev/"><kbd> Portfólio </kbd></a>
 
 <br>
 
