@@ -1,0 +1,45 @@
+<svg viewBox="0 0 880 300" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','SF Mono','Fira Code',ui-monospace,monospace">
+  <defs>
+    <clipPath id="l1"><rect x="34" y="74" width="0" height="34"><animate attributeName="width" from="0" to="820" begin="0.3s" dur="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l2"><rect x="34" y="112" width="0" height="34"><animate attributeName="width" from="0" to="820" begin="0.9s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l3"><rect x="34" y="166" width="0" height="34"><animate attributeName="width" from="0" to="820" begin="1.7s" dur="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l4"><rect x="34" y="204" width="0" height="34"><animate attributeName="width" from="0" to="820" begin="2.4s" dur="0.6s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- terminal window -->
+  <rect x="8" y="8" width="864" height="284" rx="14" fill="#0d1019"/>
+  <rect x="8" y="8" width="864" height="284" rx="14" fill="none" stroke="#1f2530" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <circle cx="36" cy="36" r="6.5" fill="#ff5f56"/>
+  <circle cx="58" cy="36" r="6.5" fill="#febc2e"/>
+  <circle cx="80" cy="36" r="6.5" fill="#27c93f"/>
+  <text x="440" y="41" text-anchor="middle" font-size="14" fill="#5b6472">thiago — ~/profile</text>
+  <line x1="8" y1="58" x2="872" y2="58" stroke="#1f2530" stroke-width="1.5"/>
+
+  <!-- body -->
+  <g clip-path="url(#l1)" font-size="22">
+    <text x="34" y="98" fill="#f5b941">$</text>
+    <text x="58" y="98" fill="#e6edf3">whoami</text>
+  </g>
+
+  <g clip-path="url(#l2)" font-size="22">
+    <text x="34" y="136" fill="#e6edf3">thiago diniz</text>
+    <text x="194" y="136" fill="#5b6472">— fullstack developer</text>
+  </g>
+
+  <g clip-path="url(#l3)" font-size="22">
+    <text x="34" y="190" fill="#f5b941">$</text>
+    <text x="58" y="190" fill="#e6edf3">stack --creative</text>
+  </g>
+
+  <g clip-path="url(#l4)" font-size="22">
+    <text x="34" y="228" fill="#9aa4b2">webgl · canvas · gsap · motion</text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="430" y="210" width="12" height="22" fill="#f5b941" opacity="0">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.99;1" dur="3s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.06s" begin="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
