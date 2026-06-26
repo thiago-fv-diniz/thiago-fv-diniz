@@ -6,15 +6,13 @@
 
 <br><br>
 
-<a href="#-portugu%C3%AAs"><kbd> 🇧🇷 &nbsp;Português </kbd></a> &nbsp; <a href="#-english"><kbd> 🇬🇧 &nbsp;English </kbd></a>
+<!-- <a href="#-portugu%C3%AAs"><kbd> 🇧🇷 &nbsp;Português </kbd></a> &nbsp; <a href="#-english"><kbd> 🇬🇧 &nbsp;English </kbd></a> -->
 
 </div>
 
 <br>
 
 <a id="português"></a>
-
-## 🇧🇷 Português
 
 Sou desenvolvedor fullstack da **Paraíba, Brasil**, atuando profissionalmente desde 2023.
 No dia a dia, construo e escalo plataformas web com **Java / Spring Boot** e **React / Next.js**.
